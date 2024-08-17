@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kojo Papo</title>
-	<atom:link href="https://kojopapo-hub.github.io/kojo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://kojopapo-hub.github.io/kojo/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Let Me Start Your Journey.</description>
 	<lastBuildDate>Sat, 17 Aug 2024 14:27:14 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://kojopapo-hub.github.io/kojo/hello-world/</link>
-					<comments>https://kojopapo-hub.github.io/kojo/hello-world/#comments</comments>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[kagisopapo]]></dc:creator>
 		<pubDate>Sat, 17 Aug 2024 14:27:14 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://kojopapo-hub.github.io/kojo/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://kojopapo-hub.github.io/kojo/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
